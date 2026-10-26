@@ -1,0 +1,6 @@
+{
+  "name": "Adaptive AMM - Dynamic Fee Protocol",
+  "description": "Dynamic-fee automated market maker simulator and DEX dashboard that adjusts swap fees based on volatility and price impact to protect liquidity providers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

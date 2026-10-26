@@ -1,0 +1,22 @@
+{
+  "name": "adaptive-amm",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Adaptive AMM with dynamic fee algorithm adjusting according to market volatility and price impact",
+  "main": "scripts/demo.js",
+  "scripts": {
+    "compile": "node scripts/compile.js",
+    "test": "node test/AdaptiveAMM.test.js",
+    "demo": "node scripts/demo.js"
+  },
+  "keywords": [
+    "amm",
+    "defi",
+    "solidity",
+    "dynamic-fees",
+    "impermanent-loss",
+    "volatility"
+  ],
+  "author": "DeFi Research",
+  "license": "MIT"
+}
